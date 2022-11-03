@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/hllowrld.github.io/static/css/main.47dc6dcc.css",
-    "main.js": "/hllowrld.github.io/static/js/main.e41438f6.js",
-    "static/js/787.40441d3e.chunk.js": "/hllowrld.github.io/static/js/787.40441d3e.chunk.js",
+    "main.js": "/hllowrld.github.io/static/js/main.c5288516.js",
+    "static/js/787.3d492ff4.chunk.js": "/hllowrld.github.io/static/js/787.3d492ff4.chunk.js",
     "static/media/colorsGif.gif": "/hllowrld.github.io/static/media/colorsGif.a45dacab4a71ceed1758.gif",
     "static/media/ncrypt.gif": "/hllowrld.github.io/static/media/ncrypt.d99cc1aa12ff1cb0d8a8.gif",
     "static/media/wtfgif.gif": "/hllowrld.github.io/static/media/wtfgif.154341f4697dbf396c82.gif",
@@ -22,11 +22,11 @@
     "static/media/parallax_0010_11.png": "/hllowrld.github.io/static/media/parallax_0010_11.b95770730ba1ef5dafb4.png",
     "index.html": "/hllowrld.github.io/index.html",
     "main.47dc6dcc.css.map": "/hllowrld.github.io/static/css/main.47dc6dcc.css.map",
-    "main.e41438f6.js.map": "/hllowrld.github.io/static/js/main.e41438f6.js.map",
-    "787.40441d3e.chunk.js.map": "/hllowrld.github.io/static/js/787.40441d3e.chunk.js.map"
+    "main.c5288516.js.map": "/hllowrld.github.io/static/js/main.c5288516.js.map",
+    "787.3d492ff4.chunk.js.map": "/hllowrld.github.io/static/js/787.3d492ff4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.47dc6dcc.css",
-    "static/js/main.e41438f6.js"
+    "static/js/main.c5288516.js"
   ]
 }
