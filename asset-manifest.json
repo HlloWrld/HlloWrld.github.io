@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.cbfd9e86.css",
-    "main.js": "/static/js/main.e27496cd.js",
+    "main.css": "/static/css/main.7a6d5a79.css",
+    "main.js": "/static/js/main.e92c5aa0.js",
     "static/js/787.3d492ff4.chunk.js": "/static/js/787.3d492ff4.chunk.js",
     "static/media/colorsGif.gif": "/static/media/colorsGif.a45dacab4a71ceed1758.gif",
     "static/media/ncrypt.gif": "/static/media/ncrypt.d99cc1aa12ff1cb0d8a8.gif",
@@ -21,12 +21,12 @@
     "static/media/parallax_0005_6.png": "/static/media/parallax_0005_6.e1daaf74d3ebac564024.png",
     "static/media/parallax_0010_11.png": "/static/media/parallax_0010_11.b95770730ba1ef5dafb4.png",
     "index.html": "/index.html",
-    "main.cbfd9e86.css.map": "/static/css/main.cbfd9e86.css.map",
-    "main.e27496cd.js.map": "/static/js/main.e27496cd.js.map",
+    "main.7a6d5a79.css.map": "/static/css/main.7a6d5a79.css.map",
+    "main.e92c5aa0.js.map": "/static/js/main.e92c5aa0.js.map",
     "787.3d492ff4.chunk.js.map": "/static/js/787.3d492ff4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cbfd9e86.css",
-    "static/js/main.e27496cd.js"
+    "static/css/main.7a6d5a79.css",
+    "static/js/main.e92c5aa0.js"
   ]
 }
