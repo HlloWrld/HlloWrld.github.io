@@ -1,7 +1,7 @@
 .projects {
     height: auto;
     background-color: #202a42;
-    padding: 1rem;
+    padding: 5rem;
     min-height: 600px;
 }
 
@@ -50,7 +50,13 @@
     color: inherit;
 }
 
-.ncryptWrapper {
+.ncryptWrapper,
+.proconContentWrapper, 
+.wtfWrapper, 
+.speakifyContentWrapper, 
+.aboutContainer,
+.projectsWrapper,
+.title {
     animation: ncryptWrapper 1s ease-in-out;
 }
 
@@ -65,51 +71,38 @@
     }
 }
 
-.navItem:hover {
-    color: #3b4151;
-}
-
-.site-title {
-    font-size: 1.5rem;
-    font-weight: 700;
-    cursor: pointer;
- 
-}
-
-.navItem {
-    transition: all 0.2s ease-in-out;
-    cursor: pointer;
-}
-
-.navItem {
-
-    text-decoration: none;
-    font-size: 1.2rem;
-    margin: 0rem 1rem 0rem 1rem;    
-}
 
 .ncryptContentWrapper, .proconContentWrapper, .speakifyContentWrapper, .wtfContentWrapper {
     padding-bottom: 3rem;
+    /* box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.281);
+    border-radius: 20px;
+    padding: 1rem;
+    margin-top: 20px; */
 }
 
 @media screen and (min-width: 1108px) {
     .ncryptContentWrapper, .proconContentWrapper, .speakifyContentWrapper, .wtfContentWrapper {
         display: flex;
         flex-direction: row;
-        justify-content: space-evenly;
+        justify-content: space-between;
         align-items: center;
         gap: 1.5rem;
-        padding-bottom: 1rem;
+
     }
     .projectImage {
         max-width: 700px;
+        min-width: 700px;
     }
 }
 
-.wtfContentWrapper {
-    /* display: flex; */
-    gap: 1.5rem;
+.projectImage:hover {
+    filter: brightness(1.2);
 }
+
+.wtfGif:hover {
+    filter: brightness(1.2);
+}
+
 
 .languagesWrapper {
     display: flex;
@@ -125,24 +118,28 @@ i {
     display: flex;
     flex-direction: row;
     align-items: center;
-    justify-content: center;
     gap: 1rem;
     flex-wrap: wrap;
 }
 
 .wtfFlex {
     display: flex;
-    gap: 1.5rem;
+    gap: 3rem;
 }
 
 @media screen and (max-width: 500px) {
     .wtfFlex {
         flex-direction: column;
-        align-items: center;
+        /* align-items: center; */
     }
 }
 
 
+.wtfGifOverlay {
+    display: flex;
+    justify-content: center;
+
+}
 
 
 

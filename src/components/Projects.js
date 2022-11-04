@@ -7,9 +7,9 @@ import wtfgif from '../images/wtfgif.gif'
 export default function Projects() {
     return(
     <div>
-        <h1 className={'rainbowText'}>Projects</h1>
+       
             <div className={'projectsWrapper'}>
-                
+            <h1 className={'rainbowText'}>Projects</h1>
                 <div className={'ncryptWrapper'}>
                
                     <div className={'ncryptContentWrapper'}>
