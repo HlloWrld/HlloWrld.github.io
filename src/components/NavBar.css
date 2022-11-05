@@ -24,6 +24,13 @@ body {
 
 }
 
+@media screen and (max-width: 400px) {
+    .NavBar {
+        padding: 0rem 0.5rem;
+    }
+
+}
+
 .NavBar ul {
     padding: 0;
     margin: 0;
@@ -48,6 +55,16 @@ body {
     flex-direction: row;
     font-size: 1.4rem;
     text-decoration: none;
+}
+
+@media screen and (max-width: 400px) {
+
+    .navItem {
+        padding: 0rem 0.0rem;
+    }
+    .navItems {
+        padding: 0rem 0.0rem;
+    }
 }
 
 .site-title {

@@ -21,45 +21,45 @@ export default function About() {
 					<div className={"techContainer"}>
 						<h3>Front End</h3>
 						<div className={"iconsAbout"}>
-							<i className="devicon-html5-plain-wordmark"></i>
-							<i class="devicon-css3-plain-wordmark"></i>
-							<i class="devicon-bootstrap-plain-wordmark"></i>
-							<i class="devicon-javascript-plain"></i>
-							<i class="devicon-react-original-wordmark"></i>
-							<i class="devicon-csharp-plain-wordmark"></i>
-							<i class="devicon-javascript-plain"></i>
+							<i class="devicon-html5-plain-wordmark"></i>
+							<i className="devicon-css3-plain-wordmark"></i>
+							<i className="devicon-bootstrap-plain-wordmark"></i>
+							<i className="devicon-javascript-plain"></i>
+							<i className="devicon-react-original-wordmark"></i>
+							<i className="devicon-csharp-plain-wordmark"></i>
+							<i className="devicon-javascript-plain"></i>
 						</div>
 					</div>
 					<div className={"techContainer"}>
 						<h3>Backend</h3>
-						<div className={"icons"}>
-							<i class="devicon-laravel-plain-wordmark"></i>
-							<i class="devicon-dotnetcore-plain"></i>
-							<i class="devicon-php-plain"></i>
-							<i class="devicon-nodejs-plain-wordmark"></i>
+						<div className={"iconsAbout"}>
+							<i className="devicon-laravel-plain-wordmark"></i>
+							<i className="devicon-dotnetcore-plain"></i>
+							<i className="devicon-php-plain"></i>
+							<i className="devicon-nodejs-plain-wordmark"></i>
 						</div>
 					</div>
 					<div className={"techContainer"}>
 						<h3>Database</h3>
-						<div className={"icons"}>
-							<i class="devicon-mysql-plain-wordmark"></i>
-							<i class="devicon-sqlite-plain-wordmark"></i>
+						<div className={"iconsAbout"}>
+							<i className="devicon-mysql-plain-wordmark"></i>
+							<i className="devicon-sqlite-plain-wordmark"></i>
 						</div>
 					</div>
 					<div className={"techContainer"}>
 						<h3>Hosting</h3>
-						<div className={"icons"}>
-							<i class="devicon-azure-plain-wordmark"></i>
-							<i class="devicon-googlecloud-plain-wordmark"></i>
-							<i class="devicon-heroku-plain-wordmark"></i>
+						<div className={"iconsAbout"}>
+							<i className="devicon-azure-plain-wordmark"></i>
+							<i className="devicon-googlecloud-plain-wordmark"></i>
+							<i className="devicon-heroku-plain-wordmark"></i>
 						</div>
 					</div>
 					<div className={"techContainer"}>
 						<h3>Other</h3>
-						<div className={"icons"}>
-							<i class="devicon-docker-plain-wordmark"></i>
-							<i class="devicon-git-plain-wordmark"></i>
-							<i class="devicon-visualstudio-plain"></i>
+						<div className={"iconsAbout"}>
+							<i className="devicon-docker-plain-wordmark"></i>
+							<i className="devicon-git-plain-wordmark"></i>
+							<i className="devicon-visualstudio-plain"></i>
 						</div>
 					</div>
 				</div>
